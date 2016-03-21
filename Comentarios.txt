@@ -1,0 +1,4 @@
+Compañeros falta los archivos de la ram, los .mod, los .hex y los fichero proteus para evidenciar ese funcionamiento. Falta la documentacion de este
+avance, alli deben describir como funciona la rutina del micro y que ocurre cuando uno de los puerto tiene una entrada determinada que produce
+en el otro puerto.
+Gracias
